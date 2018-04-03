@@ -1,0 +1,60 @@
+- changeSet:
+      id: CREATE_TABLE_TOPIC
+      author: Kiran Kumar Mothukuri
+      changes:
+      - createIndex:
+          columns:
+          - column:
+              id: id
+          Name: NAME
+          tableName: topic
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
